@@ -53,11 +53,11 @@ npm test
 
 ## 정보
 
-이름 – [@트위터 주소](https://twitter.com/dbader_org) – 이메일주소@example.com
+클라이언트/jcef/libcef.zip 파일의 압축을 풀어 클라이언트/jcef/libcef.dll로 만든 후 사용해야 합니다.
 
-XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
+해당 프로젝트는 MySQL이 필요하며 JDBC를 이용해 연동하였습니다.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+추후 데이터 관리 방식을 MySQL -> txt파일로 변경할 예정입니다.
 
 ## 기여 방법
 
