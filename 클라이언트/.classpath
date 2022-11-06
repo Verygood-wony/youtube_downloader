@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/sksro/eclipse/java-2020-06/eclipse/plugins/jython-standalone-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sksro/eclipse-workspace/창프7(JCEF)/jcef/jcef.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/sksro/eclipse-workspace/창프7(JCEF)/jcef"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sksro/eclipse/java-2020-06/eclipse/plugins/JCEF/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sksro/eclipse/java-2020-06/eclipse/plugins/JCEF/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sksro/eclipse/java-2020-06/eclipse/plugins/JCEF/jogl-all.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sksro/eclipse/java-2020-06/eclipse/plugins/JCEF/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sksro/eclipse/java-2020-06/eclipse/plugins/jsoup-1.13.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
